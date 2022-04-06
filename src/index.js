@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import 'currency-flags/dist/currency-flags.css'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
